@@ -16,10 +16,12 @@ A clean, modular, and test-driven implementation of a console-based social netwo
 
 ## Tech Stack
 
-- **Python 3.11**
+- **Python 3.13**
 - No external dependencies (fully in-memory)
 - Modular architecture (`cli`, `service`, `domain`)
 - Unit testing with `unittest`
+- GitHub actions for CI/CD
+- Docker for containerization
 
 ---
 
